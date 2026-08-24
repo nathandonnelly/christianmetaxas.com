@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "section": "Scholastic",
+    "items": [
+      {
+        "name": "An e-Book of One's Own",
+        "links": [
+          {
+            "name": "Website",
+            "url": "https://journal.otessa.org/index.php/oj/article/view/58"
+          }
+        ]
+      },
+      {
+        "name": "Learning Together Again: An Unorthodox Review of Dave Cormier's Learning in a Time of Abundance",
+        "links": [
+          {
+            "name": "Website",
+            "url": "https://openpraxis.org/articles/10.55982/openpraxis.16.3.683"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "section": "Creative",
+    "items": [
+      { "name": "Unfolding", "image": "unfolding.webp", "description": "Film" },
+      {
+        "name": "slowpoketails",
+        "image": "tails.webp",
+        "description": "worlds you know, stories you don't",
+        "links": [{ "name": "Website", "url": "https://slowpoketails.com" }]
+      },
+      {
+        "name": "The Killing Fields",
+        "image": "fields.webp",
+        "description": "A novella published by Nacreous March in Q1 2018"
+      },
+      {
+        "name": "Assembly",
+        "image": "assembly.webp",
+        "description": "Featured at: GI - IGDA Spring Showcase, THEMUSEUM",
+        "links": [
+          { "name": "Video", "url": "https://youtu.be/BMUb_xz2I8o" },
+          {
+            "name": "Interview",
+            "url": "https://englishatwaterloo.wordpress.com/2016/08/16/christian-metaxas-grad-school-and-the-unexpected/"
+          }
+        ]
+      },
+      {
+        "name": "War Tapes",
+        "image": "war.webp",
+        "description": "Featured in: Toronto Fringe Festival, 'the first play i've ever seen that has talked about a waifu'",
+        "links": [
+          { "name": "Teaser", "url": "https://youtu.be/jO4keIMSjoU" },
+          {
+            "name": "Write-Up",
+            "url": "http://intermissionmagazine.ca/festivals/fringe/virtual-vs-visceral/"
+          },
+          {
+            "name": "Interview",
+            "url": "http://www.trentu.ca/newsevents/newsDetail.php?newsId=15867"
+          }
+        ]
+      },
+      {
+        "name": "Feb 23, 2016",
+        "image": "feb23.webp",
+        "description": "Created together with Jin Sol Kim. Featured at: Coded Bodies Exhibition, English + Innovation Event"
+      },
+      {
+        "name": "Untitled Video Game Project",
+        "image": "silverdart.webp",
+        "description": "Creative storywriter for silver dart learning"
+      },
+      {
+        "name": "Star of Sand",
+        "image": "sand.webp",
+        "description": "Winner of the Timothy Findley Writing Prize: evocatively sparse and superbly crafted"
+      },
+      {
+        "name": "Newfangled",
+        "image": "newf.webp",
+        "description": "A bi-weekly, handcrafted zine. Circulation 300, read by some, beloved by all"
+      }
+    ]
+  }
+]

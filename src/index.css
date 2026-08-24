@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+::selection,
+::-moz-selection {
+  @apply bg-purple-500/25;
+}
