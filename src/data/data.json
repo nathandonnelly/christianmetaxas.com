@@ -4,20 +4,28 @@
     "section": "Scholastic",
     "items": [
       {
-        "name": "An e-Book of One's Own (2024)",
+        "name": "Runaway Games: Our New Technologically Enabled Fusion of Risk, Sport, and Culture (working)"
+      },
+      {
+        "name": "It's About Time: Comparing Faculty and Student Perceptions of Time Demands in Higher Education (submitted)"
+      },
+      {
+        "name": "An e-Book of One's Own in The Open/Technology in Education, Society, and Scholarship Association (OTESSA) Journal (2024)",
         "links": [
           {
             "name": "Website",
-            "url": "https://journal.otessa.org/index.php/oj/article/view/58"
+            "url": "https://journal.otessa.org/index.php/oj/article/view/58",
+            "description": "eportfolio, pedagogy, reflective learning, higher education, digital assessment "
           }
         ]
       },
       {
-        "name": "Learning Together Again: An Unorthodox Review of Dave Cormier's Learning in a Time of Abundance (2024)",
+        "name": "Learning Together Again: An Unorthodox Review of Dave Cormier's Learning in a Time of Abundance in Open Praxis (2024)",
         "links": [
           {
             "name": "Website",
-            "url": "https://openpraxis.org/articles/10.55982/openpraxis.16.3.683"
+            "url": "https://openpraxis.org/articles/10.55982/openpraxis.16.3.683",
+            "description": "learning, community, information, abundance, education, systems, technology, digital, citizens"
           }
         ]
       }
@@ -27,20 +35,18 @@
     "id": 2,
     "section": "Creative",
     "items": [
-      { "name": "Unfolding", "image": "unfolding.webp", "description": "Film" },
       {
-        "name": "slowpoketails",
-        "image": "tails.webp",
-        "description": "worlds you know, stories you don't",
-        "links": [{ "name": "Website", "url": "https://slowpoketails.com" }]
+        "name": "Unfolding (2025)",
+        "image": "unfolding.webp",
+        "description": "Experimental short film created with Vic Mohr-Blakeney and Matthew Hayes"
       },
       {
-        "name": "The Killing Fields",
+        "name": "The Killing Fields (2017)",
         "image": "fields.webp",
-        "description": "A novella published by Nacreous March in Q1 2018"
+        "description": "A novella published by Nacreous March"
       },
       {
-        "name": "Assembly",
+        "name": "Assembly (2016)",
         "image": "assembly.webp",
         "description": "Featured at: GI - IGDA Spring Showcase, THEMUSEUM",
         "links": [
@@ -48,22 +54,30 @@
           {
             "name": "Interview",
             "url": "https://englishatwaterloo.wordpress.com/2016/08/16/christian-metaxas-grad-school-and-the-unexpected/"
+          },
+          {
+            "name": "Interview (2)",
+            "url": "https://www.therecord.com/news/waterloo-region/uw-students-installation-transforms-violence-into-beauty/article_17adbf3d-4f67-53a9-9ef7-7c486de08be7.html"
           }
         ]
       },
       {
-        "name": "War Tapes",
+        "name": "War Tapes (2016)",
         "image": "war.webp",
-        "description": "Featured in: Toronto Fringe Festival, 'the first play i've ever seen that has talked about a waifu'",
+        "description": "Featured in at the Toronto Fringe Festival: 'the first play I've ever seen that has talked about a waifu'",
         "links": [
           { "name": "Teaser", "url": "https://youtu.be/jO4keIMSjoU" },
           {
-            "name": "Write-Up",
+            "name": "Coverage",
             "url": "http://intermissionmagazine.ca/festivals/fringe/virtual-vs-visceral/"
           },
           {
             "name": "Interview",
             "url": "http://www.trentu.ca/newsevents/newsDetail.php?newsId=15867"
+          },
+          {
+            "name": "Review",
+            "url": "https://www.mooneyontheatre.com/2016/07/01/war-tapes-cordwainer-produtions-2016-toronto-fringe-review/"
           }
         ]
       },
@@ -73,19 +87,19 @@
         "description": "Created together with Jin Sol Kim. Featured at: Coded Bodies Exhibition, English + Innovation Event"
       },
       {
-        "name": "Untitled Video Game Project",
+        "name": "Untitled Video Game Project (2015)",
         "image": "silverdart.webp",
-        "description": "Creative storywriter for silver dart learning"
+        "description": "Creative storywriter for Silver Dart Learning"
       },
       {
-        "name": "Star of Sand",
-        "image": "sand.webp",
-        "description": "Winner of the Timothy Findley Writing Prize: evocatively sparse and superbly crafted"
-      },
-      {
-        "name": "Newfangled",
+        "name": "Newfangled (2013-2014)",
         "image": "newf.webp",
         "description": "A bi-weekly, handcrafted zine. Circulation 300, read by some, beloved by all"
+      },
+      {
+        "name": "Star of Sand (2013)",
+        "image": "sand.webp",
+        "description": "Winner of the Timothy Findley Writing Prize: 'evocatively sparse and superbly crafted'"
       }
     ]
   }

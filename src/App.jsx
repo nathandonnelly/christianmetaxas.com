@@ -20,8 +20,24 @@ const App = (props) => {
           <div className="container mx-auto">
             <div className="flex items-center justify-between gap-2.5">
               <div className="flex items-center gap-2.5">
-                <h1 className="text-2xl font-semibold bg-white p-2.5">
-                  Christian Metaxas
+                <h1 className="text-2xl font-semibold bg-white">
+                  <button
+                    className="hover:cursor-pointer p-2.5 border-transparent border hover:border-purple-700"
+                    onClick={() => {
+                      setSelectedSubsection({
+                        image: "main.webp",
+                      });
+                      setSelectedSection({
+                        items: [
+                          {
+                            name: "Keywords: artist, creative, digital culture, interdisciplinary, instructional design, pedagogy, postmodernism, video games, virtual reality, writer",
+                          },
+                        ],
+                      });
+                    }}
+                  >
+                    Christian Metaxas
+                  </button>
                 </h1>
               </div>
               <div>
@@ -84,7 +100,7 @@ const App = (props) => {
                             onClick={() => {
                               setSelectedSubsection(item);
                             }}
-                            className="hover:text-purple-400 hover:cursor-pointer "
+                            className="hover:text-purple-400 hover:cursor-pointer"
                           >
                             {item?.name}
                           </code>
