@@ -8,7 +8,7 @@ const App = (props) => {
 
   return (
     <div
-      className="h-screen w-screen bg-no-repeat"
+      className="h-screen w-screen bg-no-repeat bg-top bg-cover"
       style={
         selectedSubsection?.image && {
           backgroundImage: `url('/img/${selectedSubsection?.image}')`,
